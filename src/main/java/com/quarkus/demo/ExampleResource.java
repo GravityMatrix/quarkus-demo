@@ -1,4 +1,4 @@
-package com.quarkus;
+package com.quarkus.demo;
 
 import javax.enterprise.inject.Instance;
 import javax.inject.Inject;
