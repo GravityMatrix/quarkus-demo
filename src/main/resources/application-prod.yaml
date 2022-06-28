@@ -1,0 +1,10 @@
+quarkus:
+  application:
+  name: my-quarkus-demo
+  http:
+    port: 8890
+    test-port: 8891
+greeting:
+  group:
+    name: greetingGroupName
+    age: 10
