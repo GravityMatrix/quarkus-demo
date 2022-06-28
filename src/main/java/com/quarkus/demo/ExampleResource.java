@@ -1,5 +1,7 @@
 package com.quarkus.demo;
 
+import com.quarkus.aop.Logged;
+
 import javax.enterprise.inject.Instance;
 import javax.inject.Inject;
 import javax.ws.rs.GET;
